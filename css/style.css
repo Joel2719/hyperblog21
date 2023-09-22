@@ -8,6 +8,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
 section {
     width: 300px;
     margin: 50px auto;
